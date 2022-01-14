@@ -1,0 +1,93 @@
+.page {
+  position: relative;
+  top: 0;
+  left: 0;
+  box-sizing: border-box;
+  border: 3px solid rgb(17, 0, 255);
+}
+
+.header {
+  position: relative;
+  top: 0;
+  left: 0;
+  min-height: 600px;
+  max-height: 756px;
+  background-color: #f2f2f2;
+  display: flex;
+  box-sizing: border-box;
+  z-index: -1;
+  border: 3px solid rgb(9, 255, 0);
+  overflow: hidden;
+}
+
+.logo {
+
+  width: 183px;
+  height: 32px;
+  background-image: url(/images/logo_place_header.svg);
+  border: 3px solid red;
+}
+
+.logo_place_header {
+  position: absolute;
+  top: 30px;
+  left: 64px;
+  z-index: 6;
+  border: 3px solid rgb(0, 255, 76);
+}
+
+.header__title {
+
+  margin-left: 64px;
+  width: 730px;
+  z-index: 5;
+  align-self: center;
+  line-height: 96px;
+  font-size: 102px;
+  font-weight: semibold;
+  border: 3px solid red;
+}
+
+.header__subtitle {
+  width: 388px;
+  position: absolute;
+  left: 64px;
+  bottom: 30px;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+  color: #000;
+  z-index: 4;
+  border: 3px solid red;
+}
+
+
+.header__link {
+  text-decoration: none;
+  color: #2f80ed;
+  bottom: 0;
+  right: 0;
+  border: 3px solid red;
+}
+
+.header__main-illustration {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 765px;
+  height: 608px;
+  z-index: 1;
+  border: 3px solid red;
+}
+
+.header__square-pic {
+  position: absolute;
+  right: 0;
+  top: 64px;
+  width: 568px;
+  height: 568px;
+  background-color: #2f80ed;
+  z-index: 0;
+  border: 3px solid red;
+
+}
