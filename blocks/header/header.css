@@ -21,7 +21,6 @@
 }
 
 .logo {
-
   width: 183px;
   height: 32px;
   background-image: url(/images/logo_place_header.svg);
@@ -37,7 +36,6 @@
 }
 
 .header__title {
-
   margin-left: 64px;
   width: 730px;
   z-index: 5;
@@ -60,7 +58,6 @@
   z-index: 4;
   border: 3px solid red;
 }
-
 
 .header__link {
   text-decoration: none;
@@ -89,5 +86,4 @@
   background-color: #2f80ed;
   z-index: 0;
   border: 3px solid red;
-
 }

@@ -1,25 +1,33 @@
+.digits {
+  padding-top: 100px;
+}
 .table {
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
   border: 3px solid rgb(250, 62, 15);
   width: 1100px;
-  margin-bottom: 100px;
+
+  margin: 0 auto 100px;
 
 }
 
 .table__cell {
   border: 3px solid rgb(250, 62, 15);
   width: 250px;
+  margin-top: 60px;
 }
 
 .table__heading {
-margin-bottom: 20px;
+
 line-height: 1.15;
 font-size: 24px;
 font-weight: bold;
+border: 3px solid rgb(250, 62, 15);
 }
 
 .table__text {
+  margin-top: 20px;
 line-height: 1.2;
 font-size: 18px;
 font-weight: normal;
