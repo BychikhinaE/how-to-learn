@@ -1,0 +1,9 @@
+.two-columns__brief {
+  width: 175px;
+  border: 3px solid rgb(248, 244, 19);
+  margin: 0;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 1.2;
+  color: #2f80ed;
+}
