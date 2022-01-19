@@ -4,4 +4,9 @@
   bottom: 0;
   right: 0;
   border: 3px solid red;
+  transition: opacity .3s ease;
+}
+
+.header__link:hover {
+  opacity: .5;
 }

@@ -1,0 +1,13 @@
+.footer__column-link {
+/*display: inline-block;*/
+  margin-bottom: 10px;
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: normal;
+  text-decoration: none;
+  color: white;
+}
+
+.footer__column-link:last-child {
+  margin-bottom: 0;
+}

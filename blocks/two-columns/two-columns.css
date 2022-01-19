@@ -1,7 +1,7 @@
 .two-columns {
   margin: auto;
   max-width: 80%;
-  border: 3px solid rgb(255, 174, 0);
+  border: 1px solid rgb(255, 174, 0);
   display: flex;
   flex-wrap: wrap;
   /*align-content: baseline;*/
