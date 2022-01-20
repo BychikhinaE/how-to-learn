@@ -1,3 +1,4 @@
 .table__text_theme_dark {
-  /* style is same one*/
+  position: relative;
+  z-index: 1;
 }

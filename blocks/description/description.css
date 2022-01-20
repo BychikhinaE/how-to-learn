@@ -1,11 +1,5 @@
 .description {
-  height: 100vh;
-  min-height: 600px;
-  max-height: 756px;
   display: flex;
   justify-content: center;
-  align-items: center;
-  box-sizing: border-box;
-  border: 1px solid red;
   padding-top: 100px;
 }

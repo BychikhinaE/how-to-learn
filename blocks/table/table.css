@@ -1,10 +1,9 @@
 .table {
-  list-style: none;
+  list-style-type: none;
   margin: 0;
   padding: 0;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  border: 1px solid rgb(250, 62, 15);
   width: 1100px;
 }

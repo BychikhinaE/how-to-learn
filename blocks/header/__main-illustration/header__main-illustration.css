@@ -1,9 +1,9 @@
 .header__main-illustration {
   position: absolute;
-  right: 0;
   bottom: 0;
+  right: 0;
+  object-fit: cover;
   width: 765px;
   height: 608px;
   z-index: 1;
-  border: 3px solid red;
 }

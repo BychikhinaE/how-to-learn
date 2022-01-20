@@ -1,9 +1,6 @@
 .header__link {
   text-decoration: none;
   color: #2f80ed;
-  bottom: 0;
-  right: 0;
-  border: 3px solid red;
   transition: opacity .3s ease;
 }
 

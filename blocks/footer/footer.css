@@ -4,11 +4,7 @@
   padding-bottom: 40px;
   background-color: #1f1f1f;
   display: flex;
-  margin: auto;
   justify-content: center;
   align-items: center;
-
-
   min-height: 350px;
-  border: 1px solid rgb(189, 24, 167);
 }
