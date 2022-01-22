@@ -2,6 +2,7 @@
   width: 515px;
   height: 316px;
   object-fit: cover;
+  border: none;
 }
 
 .video__iframe:first-child {
